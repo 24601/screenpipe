@@ -22,7 +22,7 @@
     "lodash": "^4.17.21",
     "lucide-react": "^0.468.0",
     "next": "14.2.15",
-    "nodemailer": "^6.9.16",
+    "nodemailer": "^8.0.4",
     "react-markdown": "^9.0.1",
     "react-syntax-highlighter": "^15.5.0",
     "remark-gfm": "^4.0.0",
